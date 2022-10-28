@@ -1,0 +1,48 @@
+.topbar {
+    margin: 0px;
+    padding: 0px;
+    color: aqua;
+    background-color: black;
+    background: black;
+    padding: 5em;
+    fill: black;
+}
+
+.midbar {
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+pre.pgtitle {
+    font-size: 8ex;
+    color: blue;
+}
+pre.pgsubtitle {
+    font-size: 4ex;
+    color: blue;
+}
+
+#mbimg {
+    scale: 50%;
+    float: right;
+    display: inline;
+}
+
+
+
+.botbar {
+    display: inline;
+    list-style: circle;
+}
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+  

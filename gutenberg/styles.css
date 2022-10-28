@@ -1,0 +1,121 @@
+#pg-header{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: brown;
+    align-content: center;
+}
+tbody{
+    text-align: center;
+    font-style: italic;
+    font-weight: normal;
+    line-height: 1.5;
+    background-color: #f8d6ac;  
+    border: black solid 2px;
+}
+tr{
+    width: fit-content;
+}
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: left;
+    color: #562407;
+    background-color: #ffe4c4;
+    }
+h1, h2, h3, h4, h5 {
+    text-align: center;
+    font-style: italic;
+    font-weight: normal;
+    line-height: 1.5;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em
+    }
+h1 {
+    font-size: 300%;
+    margin-top: 0.6em;
+    margin-bottom: 0.6em;
+    letter-spacing: 0.12em;
+    word-spacing: 0.2em;
+    text-indent: 0
+    }
+h2 {
+    font-size: 200%;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    color: black;
+    }
+h3 {
+    font-size: 130%;
+    margin-top: 1em
+    }
+h4 {
+    font-size: 120%
+    }
+h5 {
+    font-size: 110%
+    }
+.no-break {
+    page-break-before: avoid
+    }
+div.chapter {
+    page-break-before: always;
+    margin-top: 0em;
+    margin: 4px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: solid rgb(72, 49, 1) 2px;
+    }
+hr {
+    width: 80%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    }
+p {
+    text-indent: 1em;
+    margin-top: 0.25em;
+    margin-bottom: 0.25em;
+    }
+.chapter{
+    text-indent: 0%;
+    margin-left: 0%;
+    font-size: 110%;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(252, 221, 182);
+    font: italic;
+}
+p.noindent {
+    text-indent: 0%
+    }
+p.right {
+    text-align: right;
+    margin-right: 10%;
+    margin-top: 1em;
+    margin-bottom: 1em
+    }
+div.fig {
+    display: block;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    scale: 100%;
+    height: auto;
+    width: auto;
+    }
+.fig img {
+    max-width: 40%;
+    max-height: 40%;
+    border: solid black 6px;
+}
+
+/* Links */
+a:link {
+    color: #562407;
+    text-decoration: none
+    }
+a:visited {
+    color: blue;
+    text-decoration: none
+    }
+a:hover {
+    color: red
+    }

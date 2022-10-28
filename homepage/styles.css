@@ -31,18 +31,21 @@ pre.pgsubtitle {
 
 
 .botbar {
-    display: inline;
     list-style: circle;
+    align-items: center;
+    text-align: center;
 }
+
 li {
     float: left;
 }
 
 li a {
+    text-align: center;
     display: block;
     color: black;
     text-align: center;
     padding: 16px;
-    text-decoration: none;
+    margin-right: 2ex;
   }
   

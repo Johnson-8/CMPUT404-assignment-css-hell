@@ -13,12 +13,19 @@ Read this comic http://theoatmeal.com/comics/design_hell
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
 Part I Changes:
+
 -Paragraphs text color changed to dark brown
+
 -Chapter sections changed to beige to look like a paper page
+
 -Headers changed to italic and size increased
+
 -Table of contents changed to match chapter style of paper book
+
 -Images of the book cover reduced
+
 -Images given black border
+
 -Captions italicized
 
 License/Copyright
